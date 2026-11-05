@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-affiliate-management-vue-inertia",
+  "capabilityKey": "liberusoftware/module-crm-affiliate-management",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-crm-affiliate-management-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/crm/nextjs/affiliate-management.md",
+  "presentationPlan": "projects/crm/vue/affiliate-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
